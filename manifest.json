@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-ollama",
+  "versions": [
+    {
+      "commit": "4c91d4544ae6267ffa5670ed07c928797c7ee11e",
+      "parsed_at": "2026-10-15T09:17:17.045727+00:00",
+      "filetree": "filetree/4c91d4544ae6267ffa5670ed07c928797c7ee11e.nq.gz",
+      "blobs": [
+        "blob/b8f4e032113f33e1d99d03b08284865a90931f1d.nq.gz",
+        "blob/d71e6f75dc3f9a5ba0284d063891257e142b40d8.nq.gz",
+        "blob/8d3c8baf0da0978d447010f958db3e6114288f6d.nq.gz",
+        "blob/f0109af7d82942194aa836bf94b71f75e6d02452.nq.gz",
+        "blob/f989c2ee24b053627495adf50a9f24c4f6cd9603.nq.gz",
+        "blob/3e8347563081421c650dca467584d3f81e230be8.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/e024c939b93fe41991caf9e50a1bdbe68a0cee5d.nq.gz",
+        "blob/a6fbf3619f7036eb83f6a5e7cf503f32029aa562.nq.gz",
+        "blob/4e5890f3172ed2ee4e41e1cd99ca9d9e3de7934f.nq.gz",
+        "blob/748b127b5c59b27ff8214e61c508b34b93041e14.nq.gz",
+        "blob/e7fcaf6f29868464a641353a49cc0e023050ebb5.nq.gz",
+        "blob/613021d45f6cca11d48004b56c28526d752e6637.nq.gz",
+        "blob/525c10128068e2278189ff40f4afea0831efd488.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
